@@ -5,7 +5,7 @@
 int main()
 {
     // declaração de variaveis TIPO nomeVariável
-    // declaração de caracteres básicos
+    // declaração de tipos básicos
     int inteiro;
     float real;
     char caracter;
