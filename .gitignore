@@ -1,0 +1,23 @@
+# --- Executáveis e Binários (C e C++) ---
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# --- Bibliotecas ---
+*.dll
+*.so
+
+# --- Pastas de IDEs (VS Code, etc) ---
+.vscode/
+.idea/
+bin/
+obj/
+build/
+*.layout
+*.depend
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
