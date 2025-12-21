@@ -30,9 +30,32 @@ O repositório segue a ordem cronológica das listas de exercícios da disciplin
 Para arquivos em **C**:
 ```bash
 gcc nome_do_arquivo.c -o saida
-./saida
+./saida 
+```
 
 Para arquivos em **C++**:
 ```bash
 g++ nome_do_arquivo.cpp -o saida
-./saida
+./saida 
+```
+
+## Dicas de Estudos
+
+ - Pratique sempre: Sempre faça exercícios, por mais cansativo que seja. Só dessa maneira sua lógica vai se desenvolver de verdade. A leitura passiva não ensina a programar.
+
+- Não pule etapas: Não tente aprender Orientação a Objetos (Classes) sem ter dominado Structs e Modularização. A base é fundamental.
+
+- Teste de Mesa: Antes de codificar, rabisque a lógica no papel. Salva horas de depuração e pode deixar mais claro os problemas para serem resolvidos.
+
+- Entenda, não copie: Se usar código de terceiros ou IA, certifique-se de que consegue explicar cada linha do que foi escrito.
+
+## Recomendação
+
+Para estudos utilizei principalmente 3 livros:
+- [Fundamentos da programação de computadores](https://www.kufunda.net/publicdocs/Fundamentos%20da%20programa%C3%A7%C3%A3o%20de%20computadores_%20algoritmos,%20PASCAL,%20C_C++%20(padr%C3%A3o%20ANSI)%20e%20JAVA%20(%20PDFDrive%20).pdf); 
+- [Linguagem C completa e descomplicada](https://www.kufunda.net/publicdocs/Linguagem%20C.%20Completa%20E%20Descomplicada%20(Andr%C3%A9%20Backes%20).pdf);
+- [Como programar em C](https://www.inf.ufsc.br/~bosco.sobral/ensino/ine5201-02202A/Deitel_-_C_Como_programar_-_6a_edicao.pdf);
+
+## Contribuição
+
+Sinta-se à vontade para enviar pull requests com novas soluções de exercícios, correções de bugs ou melhorias na documentação. O conhecimento cresce quando compartilhado!
